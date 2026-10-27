@@ -45,9 +45,3 @@ Este projeto foi desenvolvido coletivamente pelos seguintes alunos:
 * **Travasso** (Banco de Dados & Estrutura)
 * **Erick** (Testes & Infraestrutura)
 
----
-
-## ⚙️ Como Executar o Projeto Localmente
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/paulaobarbosa02-cmd/daccord.git](https://github.com/paulaobarbosa02-cmd/daccord.git)
