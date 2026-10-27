@@ -45,3 +45,13 @@ Este projeto foi desenvolvido coletivamente pelos seguintes alunos:
 * **Travasso** (Banco de Dados & Estrutura)
 * **Erick** (Testes & Infraestrutura)
 
+ ## 📂 Estrutura do Repositório
+
+```text
+├── .planning/       # Documentação e planejamento do projeto
+├── backend/         # Lógica do servidor e rotas da API
+├── database/        # Scripts SQL de modelagem do banco de dados MySQL
+├── public/          # Arquivos estáticos e recursos visuais
+├── src/             # Componentes, telas e código-fonte do front-end
+└── README.md        # Documentação principal do projeto
+
